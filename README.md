@@ -14,5 +14,8 @@ Help the Real Estate company find what kind of homes and price that people want 
 # Data: Find this Dataset on Kaggle
 https://www.kaggle.com/datasets/corrieaar/apartment-rental-offers-in-germany
 
-Tools used in this Case Study:
+# Tools used in this Case Study:
 Python(Pandas),Tableau
+
+# Tableau: Link to Dashboard
+https://public.tableau.com/app/profile/wilton.ngo/viz/RealEstateRentals/Story1?publish=yes
