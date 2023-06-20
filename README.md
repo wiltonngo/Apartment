@@ -1,4 +1,4 @@
-# Real Estate Rentals in Germany
+# Customer Behavior Analysis
 #CONTEXT: Businesses from the Real Estate company in Germany have seen problems of Renting Houses. Some challenges they face is the COVID-19 plague and having problem renting out homes.. Many industries continue to find solutions on how they will market their Real Estate for people to rent homes in different regions in Germany. Understanding what Regions in real Estate is the most popular to rent homes can help market other regions to help market other regions.
 <br>
 # MOTIVATION:
